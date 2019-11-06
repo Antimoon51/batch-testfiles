@@ -1,0 +1,1 @@
+msgbox "Hallo Welt!", vbOKOnly, "Hallo Welt!"
