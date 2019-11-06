@@ -1,3 +1,3 @@
 # batch-testfiles
 
-includes all the testfiles I create during -batching- coding
+includes all the testfiles I create during ~~batching~~ coding
