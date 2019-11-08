@@ -1,0 +1,2 @@
+dateandtime = now()
+msgbox dateandtime
